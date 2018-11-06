@@ -1,5 +1,5 @@
 # lk21
-lk21 bypass downloader
+LK21 / Dunia21 bypass downloader
 Required:
 - Python3
 - BeautifulSoup4
